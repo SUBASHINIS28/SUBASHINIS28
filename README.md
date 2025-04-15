@@ -90,8 +90,8 @@ Currently working on innovative solutions that blend technology with real-world 
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/subashinisenthil" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/></a>
-  <a href="mailto:subashinisenthil@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/subashini-s-b43539258/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/></a>
+  <a href="mailto:subashinis41028@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" alt="email"/></a>
 </p>
 
 ---
