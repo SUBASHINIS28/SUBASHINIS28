@@ -77,13 +77,10 @@ Currently working on innovative solutions that blend technology with real-world 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subashinisenthil&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subashinisenthil&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subashinisenthil&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subashinisenthil&theme=tokyonight" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashinisenthil&layout=compact&theme=tokyonight" width="48%" />
-</p>
 
 ---
 
